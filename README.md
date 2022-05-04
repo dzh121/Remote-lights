@@ -1,5 +1,5 @@
  <h1>Bluetooth Light Switch</h1>
- <img src="BluetotohLightSwitch.jpeg" width=500 highet=500>
+ <img src="Remote-led.jpeg" width=500 highet=500>
  <p>In this project we will make Remote led strip.</p>
  <br>
  <br>
@@ -15,7 +15,7 @@
   </ul>
  <h1>Wiring</h1>
  
- <img src="Schematics/LightSwitch_bb.png" width=400 highet=400/>
+ <img src="Schematics/ledStrip_bb.png" width=400 highet=400/>
   
   <p>For the start we will connect everything with a breadboard. after you figure everything out you can attach a proto shield and solder everything in.
 
