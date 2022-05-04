@@ -1,4 +1,4 @@
- <h1>Bluetooth Light Switch</h1>
+ <h1>Remote Led strip</h1>
  <img src="Remote-led.jpeg" width=500 highet=500>
  <p>In this project we will make Remote led strip.</p>
  <br>
