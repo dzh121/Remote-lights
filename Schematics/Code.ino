@@ -7,8 +7,6 @@
 
 #define ON 0xFFE01F
 #define OFF  0XFF609F  
-#define BRIGHT DOWN 0XFF20DF
-#define BRIGHT UP 0XFFA05F
 #define WHITE 0XFFD02F
 #define RED 0XFF906F
 #define RED1  0XFFB04F
