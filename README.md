@@ -15,7 +15,7 @@
   </ul>
  <h1>Wiring</h1>
  
- <img src="Schematics/ledStrip_bb.png" width=400 highet=400/>
+ <img src="Schematics/led strip_bb.png" width=400 highet=400/>
   
   <p>For the start we will connect everything with a breadboard. after you figure everything out you can attach a proto shield and solder everything in.
 
