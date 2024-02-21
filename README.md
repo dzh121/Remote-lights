@@ -50,4 +50,4 @@ I made a 3d box you can print to hold the arduino. You can find the box in the f
 <p><b>Working with high power is very dangers and you will need to be careful.
 </b></p>
 <h1>More Info</h1>
-<p>Contact me or more info at Arduino Project Hub:https://create.arduino.cc/projecthub/dzh121/remote-led-lights-304b63</p>
+<p>Contact me or more info at Arduino Project Hub:https://projecthub.arduino.cc/dzh121/remote-led-lights-845741</p>
